@@ -4,11 +4,11 @@ TETRIS
 
 pygame으로 만든 TETRIS게임 입니다.
 ***
-### 기본 메뉴
+### Menu
 ![](https://raw.githubusercontent.com/WooJin-JO/OSSA2017_make_tetris/master/Tetris/img/2.png)
-### 키 설명
+### Controls
 ![](https://raw.githubusercontent.com/WooJin-JO/OSSA2017_make_tetris/master/Tetris/img/3.png)
-### 테트리스 가로 넓이 선택
+### Select Tetris Width
 ![](https://raw.githubusercontent.com/WooJin-JO/OSSA2017_make_tetris/master/Tetris/img/4.png)
 ***
 Reference : https://inventwithpython.com/pygame/chapter7.html
