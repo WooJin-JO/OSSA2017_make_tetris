@@ -1,6 +1,9 @@
 # OSSA2017_make_tetris
 
 TETRIS
+
+pygame으로 만든 TETRIS게임 입니다.
+***
 ### 기본 메뉴
 ![](https://raw.githubusercontent.com/WooJin-JO/OSSA2017_make_tetris/master/Tetris/img/2.png)
 ### 키 설명
