@@ -1,6 +1,6 @@
 # OSSA2017_make_tetris
 
-It is a tetris game using pygame.
+## It is a tetris game using pygame.
 ***
 ### Menu
 ![](https://raw.githubusercontent.com/WooJin-JO/OSSA2017_make_tetris/master/Tetris/img/2.png)
