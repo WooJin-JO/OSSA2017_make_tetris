@@ -818,10 +818,10 @@ def showTextScreen1(text):
         FPSCLOCK.tick()
 
 def showTextScreen2():
-    lSurf, lRect = makeTextObjs('Left arrow : Move left', BASICFONT, TEXTCOLOR)
-    rSurf, rRect = makeTextObjs('Right arrow : Move right', BASICFONT, TEXTCOLOR)
-    uSurf, uRect = makeTextObjs('Up arrow : rotate right', BASICFONT, TEXTCOLOR)
-    dSurf, dRect = makeTextObjs('Down arrow : Slow drop', BASICFONT, TEXTCOLOR)
+    lSurf, lRect = makeTextObjs('Left arrow : Move left or \'A\'', BASICFONT, TEXTCOLOR)
+    rSurf, rRect = makeTextObjs('Right arrow : Move right or \'D\'', BASICFONT, TEXTCOLOR)
+    uSurf, uRect = makeTextObjs('Up arrow : rotate right or \'W\'', BASICFONT, TEXTCOLOR)
+    dSurf, dRect = makeTextObjs('Down arrow : Slow drop or \'S\'', BASICFONT, TEXTCOLOR)
     sSurf, sRect = makeTextObjs('Space bar : Fast drop', BASICFONT, TEXTCOLOR)
     k_pSurf, k_pRect = makeTextObjs('P key : Pause game', BASICFONT, TEXTCOLOR)
     lRect.center = (int(WINDOWWIDTH / 2)-3, int(WINDOWHEIGHT / 2)-150)
