@@ -20,17 +20,17 @@ MOVEDOWNFREQ = 0.1
 XMARGIN = int((WINDOWWIDTH - BOARDWIDTH * BOXSIZE) / 3)
 TOPMARGIN = WINDOWHEIGHT - (BOARDHEIGHT * BOXSIZE) - 5
 
-#              R    G    B
+#               R    G    B
 WHITE       = (255, 255, 255)
 GRAY        = (185, 185, 185)
-BLACK       = ( 0 ,  0 ,  0 )
-RED         = (155,  0 ,  0 )
+BLACK       = (  0,   0,   0)
+RED         = (155,   0,   0)
 LIGHTRED    = (175,  20,  20)
-GREEN       = ( 0 , 155,  0 )
+GREEN       = (  0, 155,   0)
 LIGHTGREEN  = ( 20, 175,  20)
-BLUE        = ( 0 ,  0 , 155)
+BLUE        = (  0,   0, 155)
 LIGHTBLUE   = ( 20,  20, 175)
-YELLOW      = (155, 155,  0 )
+YELLOW      = (155, 155,   0)
 LIGHTYELLOW = (175, 175,  20)
 
 BORDERCOLOR = BLUE
